@@ -2,4 +2,4 @@
 # CSCI  3308
 # 
 # Today's Date: 2/2/1017
-Partner: Alex Fisher
+Partner: Alex Michael Fisher 
